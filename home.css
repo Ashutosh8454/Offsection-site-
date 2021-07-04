@@ -1,0 +1,67 @@
+body{
+        margin: 0px;
+        padding: 0px;
+        font-family: Circular Std;
+}
+/* This is Header Css Start*/
+header{
+         background-color: rgb(255, 255, 255);
+        
+         width: 1440px;
+         height: 104px;
+}
+nav{
+        
+        position:absolute;
+        left: 1000px;
+        top:28px;
+        
+      }
+  nav li{
+          float: left;
+          list-style: none;
+        
+  }
+  nav li a{
+             text-decoration: none;
+            
+             color:#0E0E2C;
+             font-weight: bold;
+             font-size: 16px;
+             text-align: center;
+             margin-right: 24px;
+             
+             
+  }
+
+ 
+  #Contact{
+        text-decoration: none;
+        padding: 12px 24px;
+        background-color: #fca21150;
+        color:#FCA311;
+        font-weight: bold;
+        font-size: 16px;
+        position: absolute;
+        left:1196px;
+        top:30px;
+        
+      }
+      #logo{
+       
+            display: block;
+            position: absolute;
+            left:136px;
+            top:18px;
+                 
+              }
+     #logo img{
+                 width:70px;
+                 height:60px;
+
+     }
+
+/* This is Header Css End*/
+
+/* This is Hero Section  Css Start*/
+
